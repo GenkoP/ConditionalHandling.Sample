@@ -1,0 +1,10 @@
+/media/genkop/Projects/Samples/ConditionalHandling/bin/Debug/netcoreapp2.0/ConditionalHandling.deps.json
+/media/genkop/Projects/Samples/ConditionalHandling/bin/Debug/netcoreapp2.0/ConditionalHandling.runtimeconfig.json
+/media/genkop/Projects/Samples/ConditionalHandling/bin/Debug/netcoreapp2.0/ConditionalHandling.runtimeconfig.dev.json
+/media/genkop/Projects/Samples/ConditionalHandling/bin/Debug/netcoreapp2.0/ConditionalHandling.dll
+/media/genkop/Projects/Samples/ConditionalHandling/bin/Debug/netcoreapp2.0/ConditionalHandling.pdb
+/media/genkop/Projects/Samples/ConditionalHandling/obj/Debug/netcoreapp2.0/ConditionalHandling.csproj.CoreCompileInputs.cache
+/media/genkop/Projects/Samples/ConditionalHandling/obj/Debug/netcoreapp2.0/ConditionalHandling.AssemblyInfoInputs.cache
+/media/genkop/Projects/Samples/ConditionalHandling/obj/Debug/netcoreapp2.0/ConditionalHandling.AssemblyInfo.cs
+/media/genkop/Projects/Samples/ConditionalHandling/obj/Debug/netcoreapp2.0/ConditionalHandling.dll
+/media/genkop/Projects/Samples/ConditionalHandling/obj/Debug/netcoreapp2.0/ConditionalHandling.pdb
